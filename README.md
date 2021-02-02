@@ -6,7 +6,7 @@ The initial boiler-plate code is based on this Medium Article:
 
 https://app.firstchoicehiring.com/ads/talent/TBM9J038mzxVBZ349TcAn4CjpujH5K84GuWWxSdkp0k?&job_board=indeed
 
-I have added the scrapping of job posting links and the ability to have user input for a more customer experience.
+I have added the scrapping of job posting links and the ability to have user input for a more custom experience.
 
 ## TODO:(In no certain order)
 
