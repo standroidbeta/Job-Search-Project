@@ -10,7 +10,7 @@ I have added the scrapping of job posting links and the ability to have user inp
 
 ## TODO:(In no certain order)
 
-- ~~Decide on and add a License~~
+- ~~Decide on and add a license~~
 - Add more code comments
 - Scrape Full job description
 - Add more job search sites to scrape than just Indeed.com
