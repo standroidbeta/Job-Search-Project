@@ -10,13 +10,13 @@ I have added the scrapping of job posting links and the ability to have user inp
 
 ## TODO:(In no certain order)
 
--[x] Decide on and add a License
-[ ] Add more code comments
-[ ] Scrape Full job description
-[ ] Add more job search sites to scrape than just Indeed.com
-[ ] Incorporate NLP for Top Words
-[ ] Add DS statiscal Analysis on NLP with visuals
-[ ] Import resume for comparison.
-[ ] Package code for deployment
-[ ] Anything else. Maybe the kitchen sink.
+- ~~Decide on and add a License
+- Add more code comments
+- Scrape Full job description
+- Add more job search sites to scrape than just Indeed.com
+- Incorporate NLP for Top Words
+- Add DS statiscal Analysis on NLP with visuals
+- Import resume for comparison.
+- Package code for deployment
+- Anything else. Maybe the kitchen sink.
 
